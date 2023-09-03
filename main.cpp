@@ -6,7 +6,7 @@ int main()
 {
     while (true)
     {
-        cout << "BEANS\n";
+        cout << "HELLO THERE\n";
     }
     return 0;
 }
